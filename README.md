@@ -5,8 +5,10 @@
 <br>
 
 <p>This is the page for the supplementary material for the paper <a
-href="http://www.biomedcentral.com/1471-2105/7/3/abstract">``Gene selection and classification of microarray data using random forest'' </a> by Ramón Díaz-Uriarte and Sara Alvarez de Andrés, BMC Bioinformatics, 2006, 7:3.</p>
-<p><!-- (Download the previous <a href="rfVarSel.pdf">tech. report pdf</a>. -->  This ms. is also in <a href="http://arXiv.org//abs/q-bio.QM/0503025">arXiv</a>.)</p>
+href="http://www.biomedcentral.com/1471-2105/7/3/abstract">``Gene
+selection and classification of microarray data using random forest'' </a>
+by Ramón Díaz-Uriarte and Sara Alvarez de Andrés, BMC Bioinformatics,
+2006, 7:3. <!-- (Download the previous <a href="rfVarSel.pdf">tech. report pdf</a>. -->  This ms. is also in <a href="http://arXiv.org//abs/q-bio.QM/0503025">arXiv</a>.</p>
 
 <!--
 <p>You can read the paper as <a href="./rfVarSel/rfVarSel.html">html</a>, but the <a href="rfVarSel.pdf">pdf</a> is nicer and better formated.  This ms. is also in <a href="http://arXiv.org//abs/q-bio.QM/0503025">arXiv</a>.</p>
@@ -116,7 +118,7 @@ href="https://github.com/rdiaz02/varSelRF">varSelRF's github repo</a>.
 
 <p>The complete set of simulated data are available 
 <!-- <a href="http://bioinfo.cnio.es/~rdiaz/rf.paper.simulated.data.tar.bz2">here</a> (beware: 230MB!!).</p> -->
-<a href="http://genesrf.iib.uam.es/Examples/supmat.788904/simulated.data.tar.bz2">here</a> (beware: 230MB!!).</p>
+<a href="http://genesrf.iib.uam.es/Examples/simulated.data.tar.bz2">here</a> (beware: 230MB!!).</p>
 
 
 <hr>
